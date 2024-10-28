@@ -168,3 +168,5 @@ hw*/fmnist
 
 hw*/data
 hw*/data.zip
+*.zip
+*.pth
